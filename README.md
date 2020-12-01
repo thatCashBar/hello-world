@@ -2,9 +2,9 @@
 
 Hi Everyone!
 
-My name is Jaxon, I am 26 years old, and I create Hyper-Casual Mobile Games!
+My name is Jaxon, I am 26 years old,
+and I am an aspiring Software Developer!
 
-Object-Oriented Programming/Game Development is my Life!
 
 My Favorite Tools:
 -----------------------
